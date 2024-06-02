@@ -1,7 +1,0 @@
-To schedule a python script to run at specific time, use schedule library.
-
-*How to run automatic scheduling script in the background continuously?*
-Consider using process manager like PM2 or running it as service.
-
-1# write a python script to pull data from database and create report (a bar chart of last seven days data).
-2# Write python script to automatically send the weather report in email.
